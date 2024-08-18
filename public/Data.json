@@ -1,0 +1,105 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/ZSDsDYS/assignment-7-card-photo.png",
+      "recipe_id": 1,
+      "recipe_name": "Grilled Lemon Herb Chicken",
+      "short_description": "Juicy and flavorful grilled chicken marinated in lemon and herbs.",
+      "ingredients": [
+        "550 g chicken breasts",
+        "120 ml lemon juice",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1 tsp dried oregano",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/pZNCktQ/assignment-7-card-2-photo.png",
+      "recipe_id": 2,
+      "recipe_name": "Vegetarian Pad Thai",
+      "short_description": "Classic Thai noodle dish with a vegetarian twist.",
+      "ingredients": [
+        "200 g rice noodles",
+        "1 red bell pepper, sliced",
+        "1 carrot, julienned",
+        "100 g bean sprouts",
+        "50 g peanuts, chopped",
+        "3 tbsp soy sauce"
+      ],
+      "preparing_time": "25 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/Rb2F3qz/img.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Caprese Salad",
+      "short_description": "A simple and refreshing Italian salad with tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "4 large tomatoes, sliced",
+        "200 g fresh mozzarella, sliced",
+        "1/4 cup fresh basil leaves",
+        "2 tbsp balsamic vinegar",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "15 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/f1rfFsJ/pexels-foodie-factor-539451-Phone.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Spaghetti Aglio e Olio",
+      "short_description": "A classic Italian pasta dish with garlic, olive oil, and red pepper flakes.",
+      "ingredients": [
+        "300 g spaghetti",
+        "4 cloves garlic, minced",
+        "1/4 cup olive oil",
+        "1/2 tsp red pepper flakes",
+        "1/4 cup chopped fresh parsley",
+        "Grated Parmesan cheese for serving"
+      ],
+      "preparing_time": "20 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/94CCD8X/pexels-jer-chung-2116094-Phone.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Mango Avocado Salsa",
+      "short_description": "A vibrant and refreshing salsa with mangoes, avocados, and lime.",
+      "ingredients": [
+        "2 ripe mangoes, diced",
+        "2 ripe avocados, diced",
+        "1/4 cup red onion, minced",
+        "1/4 cup chopped cilantro",
+        "1 jalapeno pepper, seeded and minced",
+        "Juice of 2 limes"
+      ],
+      "preparing_time": "10 min",
+      "calories": "150 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/4sZFXPZ/pexels-lumn-1410235-Phone.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Greek Quinoa Salad",
+      "short_description": "A nutritious and delicious salad packed with quinoa, cucumbers, tomatoes, and feta cheese.",
+      "ingredients": [
+        "1 cup cooked quinoa",
+        "1 cucumber, diced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup kalamata olives, pitted and halved",
+        "1/2 cup crumbled feta cheese",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "25 min",
+      "calories": "280 calories"
+    }
+]
+
+
+
+
+
+
+
